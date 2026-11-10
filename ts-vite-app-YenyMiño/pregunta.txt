@@ -1,0 +1,8 @@
+¿Qué es React y como se integra con Vite y TypeScript y TSX?
+
+React es una librería de S para armar interfaces usando 
+compoenntes que se pueden reutilizar, TSX es básicamente escribir ese código
+pareciod a HTML pero dentro de TypeScript, así podemos decir qué datos recibe 
+cada componente 
+Vite lo integra con la plantilla react-ts, que ya viene con React y TypeScript,
+ pero la plantilla vanilla-ts trae solo TypeScript, sin React
